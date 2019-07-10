@@ -1,1 +1,1 @@
-# JavaScriptDrumkit
+# JavaScriptDrumKit
